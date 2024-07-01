@@ -1,9 +1,9 @@
-**Getting Started with Tokenpay on droplinked**
+<b>**Getting Started with Tokenpay on droplinked**<b>
 
 Tokenpay by droplinked empowers token issuers and holders to use minted digital assets as a seamless token payment gateway. The functionality enables buyers to use these tokens to purchase both physical and digital goods. This helps to foster community support with a reward system while boosting token adoption and engagement.
 
 
-Demo Usecase:
+**Demo Usecase:**
 
 To showcase how Tokenpay works, droplinked has launched BediCoin ($BDC) on Base. Visit the default shop at droplinked.io/Cipher to see how $BDC token can be used to purchase goods on droplinked.
 For a detailed demonstration, you can check out the video here: https://drive.google.com/file/d/1HnoeEBMFxYu7lGUUIUO_L5Tnyfl-nH5i/view?usp=sharing
