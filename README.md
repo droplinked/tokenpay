@@ -1,4 +1,4 @@
-<b>Getting Started with Tokenpay on droplinked<b>
+**Getting Started with Tokenpay on droplinked**
 
 Tokenpay by droplinked empowers token issuers and holders to use minted digital assets as a seamless token payment gateway. The functionality enables buyers to use these tokens to purchase both physical and digital goods. This helps to foster community support with a reward system while boosting token adoption and engagement.
 
