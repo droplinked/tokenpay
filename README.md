@@ -1,7 +1,7 @@
 # tokenpay
-Token payment gateway working alongside customizable shopfronts
+A native token payment gateway working alongside customizable shopfronts and embeddable product tiles that can be displayed anywhere online.
 
-Getting Started with Tokenpay on droplinked
+Getting Started with Tokenpay on droplinked.com
 
 Tokenpay by droplinked empowers token issuers and holders to use minted digital assets as a seamless token payment gateway. The functionality enables buyers to use these tokens to purchase both physical and digital goods. This helps to foster community support with a reward system while boosting token adoption and engagement.
 
